@@ -1,2 +1,2 @@
-# call_child_component_function
+# pass_data_between_components_vuejs
 Created with CodeSandbox
